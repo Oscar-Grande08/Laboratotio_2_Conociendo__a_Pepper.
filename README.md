@@ -21,8 +21,6 @@ Su funcionamiento se apoya en distintas librerías de programación (Python, C++
 <p>El ecosistema de librerías de Pepper permite combinar interacción social (voz, gestos, tablet), movimiento avanzado y conectividad con servicios externos, 
 facilitando el desarrollo de aplicaciones de interacción humano-robot flexibles y potentes.</p>
 
-<p><em>Resumen basado en el documento <strong>Conociendo a Pepper</strong> (Oscar Grande, Didier Posse, agosto 2025).</em></p>
-
 <p align="center">
   <a href="https://www.dailymotion.com/video/x9q3sjq">
     <img src="https://static.vecteezy.com/system/resources/previews/036/280/846/non_2x/modern-robot-with-video-play-icon-artificial-intelligence-multimedia-concept-illustration-for-technology-and-streaming-vector.jpg" width="250">
